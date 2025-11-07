@@ -22,3 +22,5 @@ public static int calcularSumaDivisiones (int[] numeros) throws Exception {
 	return suma;
 }
 }
+
+
